@@ -1,0 +1,12 @@
+export { default as Container } from './Container.style.jsx';
+export { default as Section } from './Section.jsx';
+export { default as Navbar } from './Navbar.jsx';
+export { default as Hero } from './Hero.jsx';
+export { default as About } from './About.jsx';
+export { default as Features } from './Features.jsx';
+export { default as Impact } from './Impact.jsx';
+export { default as Process } from './Process.jsx';
+export { default as Quote } from './Quote.jsx';
+export { default as Team } from './Team.jsx';
+export { default as CTA } from './CTA.jsx';
+export { default as Footer } from './Footer.jsx';
