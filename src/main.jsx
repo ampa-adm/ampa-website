@@ -19,18 +19,6 @@ const router = createBrowserRouter([
         element: <Home />,
       },
       {
-        path: "login",
-        element: <Login />,
-      },
-      {
-        path: "ranking",
-        element: <Ranking />,
-      },
-      {
-        path: "parcerias",
-        element: <Parcerias />,
-      },
-      {
         path: "qrcode",
         element: <QRCode />,
       },
